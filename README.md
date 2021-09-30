@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will :)</h1>
+<h1 align="center">Heyo, I'm Will :)</h1>
 <h3 align="center">University Student, studying BSc (Hons) in Computing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamcswain&label=Profile%20views&color=0e75b6&style=flat" alt="williamcswain" /> </p>
