@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamcswain" alt="williamcswain" /></a> </p>
 
-- 🔭 I’m currently working on [COM411](https://github.com/WilliamCSwain/COM411)
+- 🔭 I’m currently working on [COM411 - Problem Solving through Programming](https://github.com/WilliamCSwain/COM411)
 
 - 🌱 I’m currently learning **Networks and Security, Problem Solving through Programming and UX Design!**
 
